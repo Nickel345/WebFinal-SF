@@ -24,3 +24,48 @@
 #mainBody {
     font-family: BMN;
 }
+
+@font-face {
+    font-family: SRED;
+    src: url(Assets/Fonts/RED.TTF)
+
+}
+
+@font-face {
+    font-family: IMPSTRIVE;
+    src: url(Assets/Fonts/IMPACT-STRIVE.OTF)
+}
+
+#page3Title {
+    font-family: IMPSTRIVE;
+}
+
+#page3Desc {
+    font-family: BMN;
+}
+
+@font-face {
+    font-family: TF2;
+    src: url(Assets/Fonts/tf2build.ttf)
+}
+
+#page4Title {
+    font-family: TF2;
+}
+
+#page4Desc {
+    font-family: TF2;
+}
+
+@font-face {
+    font-family: TERR;
+    src: url(Assets/Fonts/Terraria.TTF)
+}
+
+#page5Title {
+    font-family: TERR;
+}
+
+#page5Desc {
+    font-family: TERR;
+}
