@@ -8,10 +8,19 @@
     src: url(Assets/Fonts/bedstead.otf)
 }
 
+@font-face {
+    font-family: BMN;
+    src: url(Assets/Fonts/BITING-MY-NAILS.TTF)
+}
+
 #page2Title {
     font-family: bedstead;
 }
 
 #page2Desc {
     font-family: bedstead
+}
+
+#mainBody {
+    font-family: BMN;
 }
